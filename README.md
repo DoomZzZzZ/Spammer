@@ -4,7 +4,7 @@ Disclaimer: Sending too many messages to others at once can crash recipients dev
 
 
 
-Git clone https://github.com/DoomZzZzZ/Spammer
+git clone https://github.com/DoomZzZzZ/Spammer
 
 Now cd to where you downloaded it.
 
