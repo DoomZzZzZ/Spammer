@@ -4,6 +4,7 @@ DISCLAMER: Sending too many messages to others at once can crash recipients devi
 
 
 Git clone https://github.com/DoomZzZzZ/Spammer
+
 Now cd to where you downloaded it.
 
 And run python spammer.py
